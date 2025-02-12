@@ -27,6 +27,13 @@ The data for this project is obtained from the website [Budgeting for the Childr
 4. **Cognitive Testing**: Validate the effectiveness of the redesigned graph through a set of analytical questions.
 5. **Final Visualization & Interpretation**: Present the new graph and compare it with the original visualization.
 
+## Bad Graph:
+![BadGraph](https://github.com/Paidigumal-Vivek/RedesigningBadGraph-GoodGraph/blob/main/BadGraph.jpeg)
+
+## Redesigned Graph:
+![Good Graph](https://github.com/Paidigumal-Vivek/RedesigningBadGraph-GoodGraph/blob/main/RedesignedGraph.jpeg)
+
+
 ## Challenges Faced
 - No year-over-year comparison was provided in the original graph.
 - Data labels were overlapping, requiring separate visualization approaches.
