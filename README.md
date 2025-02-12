@@ -48,4 +48,4 @@ The data for this project is obtained from the website [Budgeting for the Childr
 While the bar graph was chosen for its simplicity and clarity, alternative visualization techniques such as pie charts or heat maps could be explored in future iterations.
 
 ## Author
-**Paidigumal Vivek Patil (G01450948)**
+**Paidigumal Vivek Patil**
